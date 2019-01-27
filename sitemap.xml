@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://http//www.marmiteetmoncouteau.com//ok/yes/lolisme/2019/01/08/yes/</loc>
-<lastmod>2019-01-08T18:00:00+01:00</lastmod>
+<loc>https://spring-bat.cloudvent.net//ok/yes/lolisme/2019/01/08/yes/</loc>
+<lastmod>2019-01-08T17:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://http//www.marmiteetmoncouteau.com//articles/</loc>
+<loc>https://spring-bat.cloudvent.net//articles/</loc>
 </url>
 <url>
-<loc>https://http//www.marmiteetmoncouteau.com//contact-success/</loc>
+<loc>https://spring-bat.cloudvent.net//contact-success/</loc>
 </url>
 <url>
-<loc>https://http//www.marmiteetmoncouteau.com//contact/</loc>
+<loc>https://spring-bat.cloudvent.net//contact/</loc>
 </url>
 <url>
-<loc>https://http//www.marmiteetmoncouteau.com//</loc>
+<loc>https://spring-bat.cloudvent.net//</loc>
+</url>
+<url>
+<loc>https://spring-bat.cloudvent.net//nous/</loc>
 </url>
 </urlset>
